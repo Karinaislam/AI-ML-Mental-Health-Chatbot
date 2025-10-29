@@ -1,0 +1,20 @@
+# Python / Flask
+venv/
+__pycache__/
+*.pyc
+instance/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# React build
+frontend/node_modules/
+frontend/build/
